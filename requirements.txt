@@ -1,0 +1,9 @@
+pyecharts==0.5.11
+pandas==1.0.5
+bs4==0.0.1
+pyecharts_snapshot
+echarts-countries-pypkg
+echarts-china-provinces-pypkg
+echarts-china-cities-pypkg
+echarts-china-counties-pypkg
+echarts-china-misc-pypkg
